@@ -21,7 +21,6 @@ A simple desktop chat interface built with **Tkinter** and **MongoDB**. This app
 1. **Clone the repo**:
    ```
    git clone https://github.com/your-username/python-chat-app.git
-   cd python-chat-app
    ```
 
 2. **Install dependencies**:
