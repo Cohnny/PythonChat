@@ -35,11 +35,3 @@ def fetch_messages():
 
 fetch_messages()
 root.mainloop()
-
-
-
-
-# git status
-# git add .
-# git commit -m"<Kommentar>"
-# git push
